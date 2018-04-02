@@ -1,0 +1,1 @@
+e = nist_eval('my_rep_pix',w,10)
